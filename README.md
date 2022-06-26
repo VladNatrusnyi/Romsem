@@ -1,24 +1,10 @@
 # romsem
 
-## Project setup
+## Start project
 ```
-npm install
+npm run dev
 ```
+## App video overview:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+https://www.youtube.com/watch?v=PXsZkzpo48A
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
